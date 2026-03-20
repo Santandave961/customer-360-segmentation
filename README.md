@@ -53,7 +53,7 @@ git clone https://github.com/Santandave961/customer-360-segmentation
 pip install -r requirements. txt
 
 ## Run the streamlit dashboard
-streamlit run app.py
+streamlit run ap.py
 
 # Technologies Used
 Python - Core Language.
