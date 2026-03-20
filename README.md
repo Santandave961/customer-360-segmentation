@@ -53,9 +53,9 @@ git clone https://github.com/Santandave961/customer-360-segmentation
 pip install -r requirements. txt
 
 ## Run the streamlit dashboard
-streamlit run ap.py
+streamlit run app.py
 
-# Tecnologies Used
+# Technologies Used
 Python - Core Language.
 Pandas and Numpy - Data manipulation
 Scikit learn - ML models
